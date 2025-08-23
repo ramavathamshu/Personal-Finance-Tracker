@@ -27,3 +27,9 @@ g++ finance_tracker.cpp -o tracker
 2.Run the program::
   ./tracker
 
+
+
+![Sample Output](./<img width="1685" height="959" alt="Screenshot 2025-08-23 223558" src="https://github.com/user-attachments/assets/8939f810-32c1-4f47-a220-476becef63e2" />
+
+
+)
