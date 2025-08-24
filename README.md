@@ -24,7 +24,7 @@ It helps you record transactions, filter large expenses, sort data, and even see
  2.Compile the program  ::
 g++ finance_tracker.cpp -o tracker
 
-2.Run the program::
+3.Run the program::
   ./tracker
 
 
